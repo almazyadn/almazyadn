@@ -1,6 +1,5 @@
 # Najla Almazyad
 
----
 
 I'm an Information Technology student passionate about AI, Data Science, and immersive technologies like VR/AR. Below are some of the projects I've worked on across different domains.
 
