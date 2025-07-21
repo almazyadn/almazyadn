@@ -25,7 +25,7 @@ Built a predictive model using text mining and clustering to identify job market
 
 ---
 
-### 🕶️ [Made In Saudi](https://github.com/almazyadn/Made-In-Saudi) — *VR Project*  
+### 🇸🇦 [Made In Saudi](https://github.com/almazyadn/Made-In-Saudi) — *VR Project*  
 **Date:** Aug 2024  
 Developed a virtual reality experience to promote local products and crafts in an immersive environment using Unity and Oculus Quest.
 
