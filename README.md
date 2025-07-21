@@ -19,12 +19,6 @@ Analyzed primary and secondary tourism data in Saudi Arabia using machine learni
 
 ---
 
-### 🏥 [Care Clinic](https://github.com/almazyadn/Care-Clinic) — *Website*  
-**Date:** Jan 2025  
-A PHP-based appointment and access management system for a clinic with secure login, session handling, and doctor-patient role restrictions.
-
----
-
 ### 🧠 [AI-Powered Job Market Insights](https://github.com/JoodAlk/AI-Employment-Trends-Analysis) — *Data Mining Project*  
 **Date:** Nov 2024  
 Built a predictive model using text mining and clustering to identify job market trends and recommend relevant skills.
