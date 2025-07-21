@@ -13,13 +13,13 @@ An all-in-one platform for planning and managing event services. Features user r
 
 ---
 
-### 📊 [Tourism in Saudi Insights](https://github.com/almazyadn/Tourism-in-Saudi) — *Data Science Project*  
+### ✈️ [Tourism in Saudi Insights](https://github.com/almazyadn/Tourism-in-Saudi) — *Data Science Project*  
 **Date:** Mar 2025  
 Analyzed primary and secondary tourism data in Saudi Arabia using machine learning techniques to uncover trends, ratings, and spending patterns.
 
 ---
 
-### 🧠 [AI-Powered Job Market Insights](https://github.com/JoodAlk/AI-Employment-Trends-Analysis) — *Data Mining Project*  
+### 📊 [AI-Powered Job Market Insights](https://github.com/JoodAlk/AI-Employment-Trends-Analysis) — *Data Mining Project*  
 **Date:** Nov 2024  
 Built a predictive model using text mining and clustering to identify job market trends and recommend relevant skills.
 
