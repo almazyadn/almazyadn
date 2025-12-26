@@ -9,6 +9,7 @@ I'm an Information Technology student passionate about AI, Data Science, and imm
 
 ### ♻️ [Baseer | بصير](https://github.com/JoodAlk/2025_GP_31) — *Smart Waste Management (Application)*  
 **Date:** Dec 2025 (In Progress) 
+
 A smart waste monitoring solution designed for Riyadh using IoT-enabled ultrasonic sensors (ESP32) and a Flutter mobile application. Features real-time fill-level tracking via Firebase and optimized collection routing for drivers using the Google Maps API.
 
 ---
