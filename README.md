@@ -1,15 +1,26 @@
 # Najla Almazyad
 
-
-I'm an Information Technology student passionate about AI, Data Science, and immersive technologies like VR/AR. Below are some of the projects I've worked on across different domains.
+I'm a recent Information Technology graduate passionate about AI, Data Science, and immersive technologies like VR/AR. Below are some of the projects I've worked on across different domains.
 
 ---
 
 ## 📁 Projects
 
-### ♻️ [Baseer | بصير](https://github.com/JoodAlk/2025_GP_31) — *Smart Waste Management (Application)*  
-**Date:** Dec 2025 (In Progress)
-A smart waste monitoring solution designed for Riyadh using IoT-enabled ultrasonic sensors (ESP32) and a Flutter mobile application. Features real-time fill-level tracking via Firebase and optimized collection routing for drivers using the Google Maps API.
+### ♻️ [Baseer | بصير](https://github.com/JoodAlk/2025_GP_31) — *Smart Waste Management (Application & Web Dashboard)*  
+**Date:** Dec 2025 – Jun 2026  
+A smart waste monitoring solution designed for Riyadh using IoT-enabled ultrasonic and fire sensors (ESP32), a Flutter mobile application, and a web admin dashboard. Features real-time fill-level and safety tracking via Firebase and optimized collection routing for drivers using the Google Maps API.
+
+---
+
+### 🩺 [Diabetes Health Indicators](https://github.com/almazyadn/DiabetesHealthIndicators) — *Big Data & Apache Spark*  
+**Date:** May 2026  
+Designed and implemented an end-to-end Big Data analytics pipeline using Apache Spark and Scala to process large-scale CDC health indicator datasets. Executed complex data transformations using Spark RDDs and Spark SQL, and built scalable machine learning classification models via Spark MLlib to predict diabetes risk based on lifestyle factors.
+
+---
+
+### 💎 [Diamond Price Prediction](https://github.com/almazyadn/DiamondPricePrediction) — *Machine Learning Project*  
+**Date:** Dec 2025  
+Developed a predictive machine learning pipeline in a Jupyter environment using Python and Scikit-Learn to estimate diamond prices based on multi-dimensional attributes. Engineered features from a raw dataset, handled categorical encoding, and optimized regression algorithms. Documented and presented findings on feature importance and model accuracy.
 
 ---
 
