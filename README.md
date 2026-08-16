@@ -8,19 +8,19 @@ I'm an Information Technology graduate passionate about AI, Data Science, and im
 
 ### ♻️ [Baseer | بصير](https://github.com/JoodAlk/2025_GP_31) — *Smart Waste Management (Application & Web Dashboard)*  
 **Date:** Jun 2026  
-A smart waste monitoring solution designed for Riyadh using IoT-enabled ultrasonic and fire sensors (ESP32), a Flutter mobile application, and a web admin dashboard. Features real-time fill-level and safety tracking via Firebase and optimized collection routing for drivers using the Google Maps API.
+An IoT-based waste monitoring system integrating ultrasonic and fire sensors, a Flutter app, web dashboard, Firebase, and Maps provider for optimized driver routing.
 
 ---
 
 ### 🩺 [Diabetes Health Indicators](https://github.com/almazyadn/DiabetesHealthIndicators) — *Big Data & Apache Spark*  
-**Date:** May 2026  
-Designed and implemented an end-to-end Big Data analytics pipeline using Apache Spark and Scala to process large-scale CDC health indicator datasets. Executed complex data transformations using Spark RDDs and Spark SQL, and built scalable machine learning classification models via Spark MLlib to predict diabetes risk based on lifestyle factors.
+**Date:** May 2026 
+A Big Data analytics pipeline using Apache Spark and Scala. Utilized Spark RDDs, SQL, and MLlib to process CDC health datasets and predict diabetes risk.
 
 ---
 
 ### 💎 [Diamond Price Prediction](https://github.com/almazyadn/DiamondPricePrediction) — *Machine Learning Project*  
 **Date:** Dec 2025  
-Developed a predictive machine learning pipeline in a Jupyter environment using Python and Scikit-Learn to estimate diamond prices based on multi-dimensional attributes. Engineered features from a raw dataset, handled categorical encoding, and optimized regression algorithms. Documented and presented findings on feature importance and model accuracy.
+A Python-based machine learning pipeline to predict diamond prices. Involved data preprocessing, EDA, and optimizing regression models using Scikit-Learn.
 
 ---
 
