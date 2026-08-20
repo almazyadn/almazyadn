@@ -6,7 +6,7 @@ I'm an Information Technology graduate passionate about AI, Data Science, and im
 
 ## 📁 Projects
 
-### ♻️ [Baseer | بصير](https://github.com/JoodAlk/2025_GP_31) — *Smart Waste Management (Application & Web Dashboard)*  
+### ♻️ [Baseer | بصير](https://github.com/almazyadn/BaseerSmartWasteManagement) — *Smart Waste Management (Application & Web Dashboard)*  
 **Date:** Jun 2026  
 An IoT-based waste monitoring system integrating ultrasonic and fire sensors, a Flutter app, web dashboard, Firebase, and Maps provider for optimized driver routing.
 
